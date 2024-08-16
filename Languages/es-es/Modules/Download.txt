@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "#Title#Enter the name of the destination file...": "#Título#Introduzca el nombre del archivo de destino...",
+    "%o: Connection error in slot %0": "%o: Error de conexión en la ranura %0",
+    "%o: Download aborted in slot %0": "%o: Se ha abortado la descarga en la ranura %0",
+    "%o: Download in progress slot %0": "%o: Descarga en progreso en la ranura %0",
+    "%o: Download successfully completed slot %0": "%o: Se ha completado la descarga en la ranura %0",
+    "Abort download slot %0": "Abortar descarga de la ranura %0",
+    "Allows you to download file from the Internet.": "Permite descargar archivos de Internet.",
+    "Average speed : %i bytes per second": "Velocidad media : %i bytes por segundo",
+    "Current URL : %s": "URL actual : %s",
+    "Download Object": "Descargar objeto",
+    "Download file, Url=%0, destination=%1, slot %2": "Descargar archivo, URL=%0, destino=%1, ranura %2",
+    "Download object": "Descargar objeto",
+    "Enter file URL": "Introducir URL del archivo",
+    "Enter the URL of the file. It must begin with HTTP:// or HTTPS://": "Introduzca la URL del archivo. Debe comenzar con HTTP:// o HTTPS://",
+    "Enter the slot number (1-4)": "Introduce el número de ranura (1-4)",
+    "Number of bytes read : %i": "Número de bytes leídos : %i",
+    "Pause download slot %0": "Pausar descarga de ranura %0",
+    "Resume download slot %0": "Reanudar descarga de la ranura %0",
+    "Size of the file to download : %i": "Tamaño del archivo para descargar: %i",
+    "Slot 1": "Ranura 1",
+    "Slot 2": "Ranura 2",
+    "Slot 3": "Ranura 3",
+    "Slot 4": "Ranura 4"
+  },
+  "menu_20000": {
+    "Abort download": "Cancelar descarga",
+    "Download file": "Descargar archivo",
+    "Pause download": "Pausar descarga",
+    "Resume download": "Reanudar descarga"
+  },
+  "menu_20001": {
+    "Connection error?": "¿Error de conexión?",
+    "Download aborted?": "¿Descarga abortada?",
+    "Download in progress?": "¿Descarga en progreso?",
+    "Download successfully completed?": "¿Se completó la descarga correctamente?"
+  },
+  "menu_20002": {
+    "Current URL": "URL actual",
+    "Current download percentage": "Porcentaje actual de descarga",
+    "Current download position": "Posición actual de descarga",
+    "Current speed (bytes per second)": "Velocidad actual (bytes por segundo)",
+    "Estimated download time": "Tiempo estimado de descarga",
+    "Get file size (without download)": "Obtener tamaño del archivo (sin descargar)",
+    "Total file size": "Tamaño total del archivo"
+  }
+}

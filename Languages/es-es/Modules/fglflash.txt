@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: On Ad Clicked": "%o: Al hacer clic en el anuncio",
+    "%o: On Ad Closed": "%o: Al cerrar el anuncio",
+    "%o: On Ad Error": "%o: Al error de anuncio",
+    "%o: On Ad Loaded": "%o: Al cargar el anuncio",
+    "%o: On Ad Shown": "%o: Al mostrar el anuncio",
+    "%o: On Api Ready": "%o: Cuando la API esté lista",
+    "6V4": "6V4",
+    "Disable Ads": "Desactivar anuncios",
+    "Enable Ads": "Activar anuncios",
+    "Enter Ad Size (0:320x250, 1:90x90)": "Introduce el tamaño del anuncio (0:320x250, 1:90x90)",
+    "Enter Delay Value (in msecs, default is 3000)": "Introduzca el valor de la demora (en milisegundos, el valor predeterminado es 3000)",
+    "Enter Timeout Value (in msecs, default is 0)": "Introduzca el valor de tiempo de espera (en milisegundos, el valor predeterminado es 0)",
+    "FGL - flash": "FGL - flash",
+    "FGL Flash": "FGL Flash",
+    "FGL Object for Flash. Provides special functionalities for FGL Ads in flash applications.": "Objeto FGL para Flash. Proporciona funcionalidades especiales para anuncios FGL en aplicaciones flash.",
+    "Game Id (from FGL dashboard)": "ID del juego (del panel de control de FGL)",
+    "Request Ad": "Solicitar anuncio",
+    "Set Ad Delay to %0": "Definir Retraso del Anuncio en %0",
+    "Set Ad Size to %0": "Definir Tamaño de Anuncio a %0",
+    "Set Ad Timeout to %0": "Definir Tiempo de espera del anuncio a %0",
+    "Set Game ID to %0": "Definir ID del juego en %0",
+    "Show Ad": "Mostrar anuncio",
+    "just a review.": "solo una revisión."
+  },
+  "menu_20000": {
+    "Disable Ads": "Desactivar anuncios",
+    "Enable Ads": "Activar anuncios",
+    "Request Ad": "Solicitar anuncio",
+    "Set Ad Delay": "Definir Retraso del Anuncio",
+    "Set Ad Size": "Definir Tamaño de Anuncio",
+    "Set Ad Timeout": "Definir Tiempo de Espera del Anuncio",
+    "Set Game ID": "Definir ID del Juego",
+    "Show Ad": "Mostrar anuncio"
+  },
+  "menu_20001": {
+    "On Ad Clicked": "Al hacer clic en el anuncio",
+    "On Ad Closed": "Al cerrar el anuncio",
+    "On Ad Error": "Al error de anuncio",
+    "On Ad Loaded": "Al cargar el anuncio",
+    "On Ad Shown": "Al mostrar el anuncio",
+    "On Api Ready": "Al iniciar la API"
+  },
+  "menu_20002": {
+    "Error String": "Cadena de error",
+    "Error Value": "Valor de Error",
+    "Get Status": "Obtener Estado"
+  }
+}

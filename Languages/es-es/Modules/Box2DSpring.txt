@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Activated : %i": "Activado : %i",
+    "Active at start": "Activo al inicio",
+    "Advanced": "Avanzado",
+    "Angle : %i degrees": "Ángulo : %i grados",
+    "Auto rotation": "Rotación automática",
+    "Box": "Caja",
+    "Check this box to make your spring active when the frame starts": "Marque esta casilla para activar su muelle cuando comience el cuadro.",
+    "Check to enable automatic rotations of the image": "Marcar para activar la rotación automática de la imagen",
+    "Check to resample the image of the object when rotating it (slower for large number of objects).": "Marcar para volver a muestrear la imagen del objeto cuando se rote (más lento para un gran número de objetos).",
+    "Circle": "Círculo",
+    "Collision shape": "Forma de colisión",
+    "Engine ID": "ID del motor",
+    "Enter the direction of the spring": "Introduce la dirección del muelle",
+    "Enter the identifier of the movement, that must match the identifier of the engine object.": "Introduzca el identificador del movimiento, que debe coincidir con el identificador del objeto del motor.",
+    "Enter the strength of the spring, (0 = inactive)": "Introduce la fuerza del muelle, (0 = inactivo)",
+    "Physics - Spring": "Física - Resorte",
+    "Please choose the shape of the collision box": "Por favor, elige la forma de la caja de colisión",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, coloca un objeto 'Motor de Física' en tu cuadro.",
+    "Shape of first image": "Forma de la primera imagen",
+    "Smooth rotations": "Rotaciones suaves",
+    "Spring directions": "Direcciones de resorte",
+    "Strength": "Fuerza",
+    "Strength : %i": "Fuerza : %i",
+    "Type : Spring": "Tipo : Resorte"
+  }
+}

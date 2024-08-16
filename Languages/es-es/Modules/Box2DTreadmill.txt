@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is treadmill active?": "%o: ¿Está activa la cinta de correr?",
+    "Active at start": "Activo al inicio",
+    "Advanced": "Avanzado",
+    "Angle": "Ángulo",
+    "Angle : %g degrees": "Ángulo : %g grados",
+    "Check this box to make the treadmill active at start of frame": "Marque esta casilla para activar la cinta de correr al inicio del fotograma",
+    "Direction of the treadmill": "Dirección de la cinta de correr",
+    "Engine ID": "ID del motor",
+    "Enter 1 to turn on, 0 to turn off": "Introduce 1 para encender, 0 para apagar",
+    "Enter the direction of the treadmill": "Introduce la dirección de la cinta de correr",
+    "Enter the height of the object": "Introduzca la altura del objeto",
+    "Enter the identifier of the engine if multiple engines are used on the same frame.": "Introduzca el identificador del motor si se utilizan varios motores en el mismo cuadro.",
+    "Enter the speed of the treadmill (0-100)": "Introduce la velocidad de la cinta (0-100)",
+    "Enter the speed of the treadmill, from 0 to 100": "Introduzca la velocidad de la cinta, de 0 a 100",
+    "Enter the width of the object": "Introduzca el ancho del objeto",
+    "Moves objects at constant speed in one direction": "Mueve objetos a velocidad constante en una dirección",
+    "Physics - Treadmill": "Física - Cinta de correr",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, coloca un objeto 'Motor de Física' en tu cuadro.",
+    "Running : %i": "Ejecutando : %i",
+    "Set angle to %0 degrees": "Definir ángulo en %0 grados",
+    "Set height to %0": "Definir altura a %0",
+    "Set speed to %0": "Definir velocidad a %0",
+    "Set treadmill to %0": "Definir cinta a %0",
+    "Set width to %0": "Definir ancho a %0",
+    "Speed": "Velocidad",
+    "Strength : %i": "Fuerza : %i"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Set angle": "Definir ángulo",
+    "Set height": "Definir altura",
+    "Set speed": "Definir velocidad",
+    "Set treadmill ON/OFF": "Definir cinta ON/OFF",
+    "Set width": "Definir anchura"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Is treadmill active?": "¿Está activa la cinta de correr?"
+  },
+  "menu_20002": {
+    "Action zone height": "Altura de la zona de acción",
+    "Action zone width": "Ancho de la zona de acción",
+    "Expressions": "Expresiones",
+    "Treadmill angle": "Ángulo de la cinta",
+    "Treadmill speed": "Velocidad de la cinta"
+  }
+}

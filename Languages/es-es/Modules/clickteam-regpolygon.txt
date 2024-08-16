@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "Acerca de",
+    "Author": "Autor",
+    "Central x co-ordinate of movement.": "Coordenada x central del movimiento.",
+    "Central y co-ordinate of movement.": "Centro y coordenada de movimiento.",
+    "Centre X": "Centrar X",
+    "Centre Y": "Centrar Y",
+    "Clickteam Movement Controller": "Controlador de Movimiento Clickteam",
+    "Control Ext.": "Extensión de control",
+    "General Properties": "Propiedades generales",
+    "Initially moving at start of frame.": "Inicialmente moviéndose al inicio del fotograma.",
+    "Move at Start": "Mover al iniciar",
+    "Name of the extension used to interact with this movement.": "Nombre de la extensión utilizada para interactuar con este movimiento.",
+    "Number of Sides": "Número de Lados",
+    "Number of polygon sides, three for a triangle, four for a square etc.": "Número de lados del polígono, tres para un triángulo, cuatro para un cuadrado, etc.",
+    "Outer radius of the polygon in pixels.": "Radio exterior del polígono en píxeles.",
+    "Polygon Properties": "Propiedades del polígono",
+    "Properties relating to the movement.": "Propiedades relacionadas con el movimiento.",
+    "Properties relating to the regular polygon movement.": "Propiedades relacionadas con el movimiento del polígono regular.",
+    "Radius": "Radio",
+    "Regular Polygon": "Polígono regular",
+    "Released October 2006": "Lanzado en octubre de 2006",
+    "Rotation Angle": "Ángulo de rotación",
+    "Rotational angle of the polygon.": "Ángulo de rotación del polígono.",
+    "Velocity": "Velocidad",
+    "Velocity of the object, negative values reverse the movement direction.": "Velocidad del objeto, los valores negativos invierten la dirección del movimiento.",
+    "Version": "Versión"
+  }
+}

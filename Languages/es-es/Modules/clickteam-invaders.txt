@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "Acerca de",
+    "Author": "Autor",
+    "Automatically handle speed increase": "Ajustar automáticamente el aumento de velocidad",
+    "By how many pixels the invaders move in the x-direction.": "Por cuántos píxeles se mueven los invasores en la dirección x.",
+    "By how many pixels the invaders move in the y-direction.": "Por cuántos píxeles se mueven los invasores en dirección y.",
+    "Clickteam Movement Controller": "Controlador de Movimiento Clickteam",
+    "Control Ext.": "Extensión de control",
+    "Global Invader Properties": "Propiedades globales del invasor",
+    "Handle speed increase when fewer invaders automatically.": "Manejar el aumento de velocidad cuando hay menos invasores automáticamente.",
+    "How often the invaders move.": "¿Con qué frecuencia se mueven los invasores?",
+    "Initial direction": "Dirección inicial",
+    "Invaders": "Invasores",
+    "Left": "Izquierda",
+    "Move at Start": "Mover al iniciar",
+    "Name of the extension used to interact with this movement.": "Nombre de la extensión utilizada para interactuar con este movimiento.",
+    "Properties relating to the invader movement.": "Propiedades relacionadas con el movimiento del invasor.",
+    "Released October 2006": "Lanzado en octubre de 2006",
+    "Right": "Derecha",
+    "Speed": "Velocidad",
+    "Step Size in X": "Tamaño del paso en X",
+    "Step Size in Y": "Tamaño de paso en Y",
+    "The direction in which all invaders will move at initially.": "La dirección en la que se moverán inicialmente todos los invasores.",
+    "Version": "Versión",
+    "Will the invaders be moving at start of frame.": "¿Se moverán los invasores al inicio del fotograma?"
+  }
+}

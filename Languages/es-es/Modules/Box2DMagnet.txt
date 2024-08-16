@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "%o: Is magnet active?": "%o: ¿Está activo el imán?",
+    "Active at start": "Activo al inicio",
+    "Advanced": "Avanzado",
+    "Attracts objects around itself": "Atrae objetos a su alrededor",
+    "Check this box to make the magnet active at start of frame": "Marque esta casilla para activar el imán al inicio del fotograma",
+    "Directions": "Direcciones",
+    "Directions of the magnet": "Direcciones del imán",
+    "Engine ID": "ID del motor",
+    "Enter 1 to turn on, 0 to turn off": "Introduce 1 para encender, 0 para apagar",
+    "Enter the directions where the magnet will have effect": "Introduce las direcciones en las que el imán tendrá efecto",
+    "Enter the height of the object": "Introduzca la altura del objeto",
+    "Enter the identifier of the engine if multiple engines are used on the same frame.": "Introduzca el identificador del motor si se utilizan varios motores en el mismo cuadro.",
+    "Enter the strength of the magnet (0-100)": "Introduce la fuerza del imán (0-100)",
+    "Enter the strength of the magnet, from 0 to 100": "Introduce la fuerza del imán, de 0 a 100",
+    "Enter the width of the object": "Introduzca la anchura del objeto",
+    "Physics - Magnet": "Física - Imán",
+    "Please drop a 'Physics Engine' object in your frame.": "Por favor, coloca un objeto 'Motor de Física' en tu cuadro.",
+    "Running : %i": "Ejecutando : %i",
+    "Set angle to %0": "Definir ángulo en %0",
+    "Set height to %0": "Definir altura a %0",
+    "Set magnet to %0": "Definir imán en %0",
+    "Set strength to %0": "Definir fuerza a %0",
+    "Set width to %0": "Definir anchura a %0",
+    "Strength": "Fuerza",
+    "Strength : %i": "Fuerza : %i"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Set angle": "Definir ángulo",
+    "Set height": "Definir altura",
+    "Set magnet ON/OFF": "Activar/Desactivar imán",
+    "Set strength": "Definir fuerza",
+    "Set width": "Definir anchura"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Is magnet active?": "¿Está activo el imán?"
+  },
+  "menu_20002": {
+    "Action zone height": "Altura de la zona de acción",
+    "Action zone width": "Ancho de la zona de acción",
+    "Expressions": "Expresiones",
+    "Magnet strength": "Fuerza del imán"
+  }
+}

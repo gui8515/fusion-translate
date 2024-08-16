@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "About": "Acerca de",
+    "Author": "Autor",
+    "Automatically set animation direction": "Definir automáticamente la dirección de animación",
+    "Clickteam Movement Controller": "Controlador de Movimiento Clickteam",
+    "Control Ext.": "Extensión de control",
+    "Direction": "Dirección",
+    "Direction of the gravity / acceleration applied to the object in degrees.": "Dirección de la gravedad / aceleración aplicada al objeto en grados.",
+    "General Properties": "Propiedades generales",
+    "Gravity / Acceleration": "Gravedad / Aceleración",
+    "Gravity or acceleration strength (depending on usage)": "Gravedad o fuerza de aceleración (dependiendo del uso)",
+    "Initial Direction and Speed": "Dirección inicial y velocidad",
+    "Initial direction of the object in degrees.": "Dirección inicial del objeto en grados.",
+    "Initial speed of the object.": "Velocidad inicial del objeto.",
+    "Initially moving at start of frame.": "Inicialmente moviéndose al inicio del fotograma.",
+    "Move at Start": "Mover al iniciar",
+    "Movement will automatically set the animation direction from current angle.": "El movimiento establecerá automáticamente la dirección de animación desde el ángulo actual.",
+    "Name of the extension used to interact with this movement.": "Nombre de la extensión utilizada para interactuar con este movimiento.",
+    "Properties relating to the movements initial direction.": "Propiedades relacionadas con la dirección inicial del movimiento.",
+    "Released October 2006": "Lanzado en octubre de 2006",
+    "Speed": "Velocidad",
+    "Strength": "Fuerza",
+    "Strength of the gravity / acceleration applied to the object": "Fuerza de gravedad / aceleración aplicada al objeto",
+    "Vector": "Vector",
+    "Version": "Versión"
+  }
+}

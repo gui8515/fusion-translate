@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 
 // Configurações
-const targetLanguage = 'pt-br'; // Substitua pelo código do idioma de destino
+const targetLanguage = 'es-es'; // Substitua pelo código do idioma de destino
 const directoryPath = './Languages/en-us/Modules'; // Substitua pelo caminho do seu diretório
 const outputDirectory = `./Languages/${targetLanguage}/Modules`;
 const url = 'http://localhost:11434/api/generate';
@@ -126,13 +126,14 @@ async function translateFiles() {
             fs.writeFileSync(outputFilePath, JSON.stringify(translatedData, null, 2), 'utf-8');
             contarfile1++
             console.log(`Translated file saved to ${outputFilePath}`);
+            if (contarfile1 >= contarfile) {
+                console.timeEnd('Total')
+            }
         }
     }
 }
 
 // Executa a função de tradução
 console.time('Total')
+
 translateFiles().catch(console.error);
-if (contarfile1 >= contarfile) {
-    console.timeEnd('Total')
-}

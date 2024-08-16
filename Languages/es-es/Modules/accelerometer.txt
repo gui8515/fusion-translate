@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "lang": 1046,
+  "general": {
+    "Accelerometer object": "Objeto acelerómetro",
+    "Device orientation changed": "Se ha cambiado la orientación del dispositivo",
+    "Retrieve data from the accelerometer on devices that support it (such as the iPhone or some Android phones).": "Obtener datos del acelerómetro en dispositivos que lo admitan, como el iPhone o algunos teléfonos Android."
+  },
+  "menu_20000": {
+    "Actions": "Acciones"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Device orientation changed": "Se ha cambiado la orientación del dispositivo"
+  },
+  "menu_20002": {
+    "Device orientation": "Orientación del dispositivo",
+    "Direct values": "Valores directos",
+    "Expressions": "Expresiones",
+    "Gravity isolated values": "Valores de gravedad aislados",
+    "Instantaneous values": "Valores instantáneos",
+    "X acceleration": "Aceleración en X",
+    "Y acceleration": "Aceleración Y",
+    "Z acceleration": "Aceleración Z"
+  }
+}
