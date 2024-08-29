@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: Is Video loaded?": "%o: ¿Está cargado el vídeo?",
     "%o: On Dismissed Screen": "%o: Al cerrar la pantalla",

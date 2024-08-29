@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Allows you to retrieve information from analog joysticks.": "Permite obtener información de los joysticks analógicos.",
+    "Analog Joystick": "Joystick analógico",
+    "Analog Joystick object": "Objeto Joystick Analógico",
+    "Button 1: %i": "Botón 1: %i",
+    "Button 2: %i": "Botón 2: %i",
+    "Button 3: %i": "Botón 3: %i",
+    "Button 4: %i": "Botón 4: %i",
+    "Value X: %i": "Valor X: %i",
+    "Value Y: %i": "Valor Y: %i",
+    "Value Z: %i": "Valor Z: %i"
+  },
+  "menu_20002": {
+    "Raw Button A Value": "Valor del Botón A sin procesar",
+    "Raw Button B Value": "Valor bruto del botón B",
+    "Raw Button C Value": "Valor bruto del botón C",
+    "Raw Button D Value": "Valor bruto del botón D",
+    "Raw X Value": "Valor X en bruto",
+    "Raw Y Value": "Valor en Y sin procesar",
+    "Raw Z Value": "Valor Z bruto"
+  }
+}

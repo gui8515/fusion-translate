@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Allow the user to edit the picture or movie": "Permitir al usuario editar la imagen o el video",
     "Camera": "Cámara",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: An element collides with %0": "%o: Un elemento colisiona con %0",
     "%o: An element collides with a backdrop": "%o: Un elemento choca con un fondo",

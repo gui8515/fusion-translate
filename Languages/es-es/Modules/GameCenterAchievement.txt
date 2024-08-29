@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Achieved": "Logrado",
+    "Achievement title": "Título del logro",
+    "Click Edit to draw the images of the achievement": "Haz clic en Editar para dibujar las imágenes de los logros",
+    "Description of the achievement, after completion": "Descripción de la consecución tras su finalización",
+    "Description of the achievement, before completion": "Descripción de la consecución antes de completarla",
+    "Displays one Game Center achievement in your iOS application.": "Muestra un logro de Game Center en tu aplicación iOS.",
+    "Enter the achievement identifier as defined in iTunes Connect": "Introduce el identificador de logro como se define en iTunes Connect",
+    "Game Center Achievement": "Logro del Centro de juegos",
+    "Identifier": "Identificador",
+    "Images": "Imágenes",
+    "Unachieved": "No logrado"
+  },
+  "menu_20002": {
+    "Expressions": "Expresiones",
+    "Get achievement achieved description": "Obtener descripción de logro conseguido",
+    "Get achievement maximum points": "Obtener puntos máximos de logro",
+    "Get achievement percentage": "Obtener porcentaje de logro",
+    "Get achievement title": "Obtener el título del logro",
+    "Get achievement unachieved description": "Obtener descripción de logro no conseguido"
+  }
+}

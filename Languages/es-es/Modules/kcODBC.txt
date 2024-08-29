@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "00Get row": "Obtener fila 00",
+    "00New statement": "Nueva declaración",
+    "00Select a data source": "Seleccionar una fuente de datos",
+    "00Select a data source via a selector": "Selecciona una fuente de datos mediante un selector",
+    "01Send SQL command %s": "Enviar comando SQL %s",
+    "01Set row max length to %s": "01Definir longitud máxima de fila a %s",
+    "10%s: can get data": "10%s: puede obtener datos",
+    "Column number": "Número de columna",
+    "ODBC": "ODBC",
+    "ODBC object": "Objeto ODBC",
+    "Provides a direct way of accessing information from an external database.": "Proporciona una forma directa de acceder a información desde una base de datos externa."
+  },
+  "dialog_20003": {
+    "&Browse": "&Examinar",
+    "&Help": "&Ayuda",
+    "Cancel": "Cancelar",
+    "Data source": "Fuente de datos",
+    "OK": "Aceptar",
+    "Setup ODBC object": "Configurar objeto ODBC"
+  },
+  "menu_20000": {
+    "Get row": "Obtener fila",
+    "New statement": "Nueva instrucción",
+    "Select data source": "Seleccionar origen de datos",
+    "Select data source via a selector": "Seleccionar origen de datos mediante un selector",
+    "Send SQL command": "Enviar comando SQL",
+    "Set row max length": "Definir longitud máxima de fila"
+  },
+  "menu_20001": {
+    "Can get data ?": "¿Puede obtener datos?"
+  },
+  "menu_20002": {
+    "Get columns count": "Obtener el recuento de columnas",
+    "Get name of column": "Obtener el nombre de la columna",
+    "Get number in column": "Obtener número en columna",
+    "Get rows count": "Obtener el recuento de filas",
+    "Get text in column": "Obtener texto en columna"
+  }
+}

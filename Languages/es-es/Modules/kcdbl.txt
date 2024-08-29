@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only.": "Permite realizar cálculos simples con números de punto flotante de doble precisión (16 dígitos significativos). Solo para la versión Pro.",
+    "Double-Precision Calculator": "Calculadora de Doble Precisión",
+    "Double-Precision Calculator object": "Objeto calculadora de doble precisión",
+    "Enter the number of digits": "Introduzca el número de dígitos",
+    "Enter the number of digits after the decimal point": "Introduzca el número de dígitos después del punto decimal",
+    "First number string": "Primer número de texto",
+    "Number of decimals": "Número de decimales",
+    "Number of digits": "Número de dígitos",
+    "Number string": "Cadena de números",
+    "Second number string": "Segunda cadena de texto",
+    "Set Format to %0 digits": "Definir formato en %0 dígitos",
+    "Set Format to %0 digits after decimal point": "Definir Formato a %0 dígitos después del punto decimal",
+    "Set Standard Format": "Definir Formato Estándar"
+  },
+  "menu_20000": {
+    "&Standard": "&Estándar",
+    "N digits": "N dígitos",
+    "N digits after decimal point": "N dígitos después del punto decimal",
+    "Set Format": "Definir Formato"
+  },
+  "menu_20002": {
+    "&Add": "&Añadir",
+    "&Divide": "&Dividir",
+    "&Multiply": "&Multiplicar",
+    "&Subtract": "&Restar",
+    "Format ...": "Formatear ...",
+    "N digits": "N dígitos",
+    "N digits after decimal point": "N dígitos después del punto decimal"
+  }
+}

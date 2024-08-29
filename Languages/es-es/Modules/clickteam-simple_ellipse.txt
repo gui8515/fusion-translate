@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "About": "Acerca de",
     "Angular Velocity": "Velocidad angular",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Add backdrop objects to the world": "Añadir objetos de fondo al mundo",
     "Add object %0 to world, density %1, friction %2, shape %3": "Añadir objeto %0 al mundo, densidad %1, fricción %2, forma %3",

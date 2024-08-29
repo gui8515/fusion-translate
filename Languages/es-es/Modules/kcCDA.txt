@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "00Close door": "Cerrar puerta",
+    "00Next track": "Siguiente pista",
+    "00Open door": "Abrir la puerta",
+    "00Pause": "Pausar",
+    "00Previous track": "Pista anterior",
+    "00Resume": "Reanudar",
+    "00Stop": "Detener 00",
+    "01Play at %s": "Reproducir en %s",
+    "01Play from track %s": "Reproducir desde la pista %s",
+    "01Play track %s": "Reproducir pista %s",
+    "11%s:time position %s": "11%s: posición en el tiempo %s",
+    "11%s:time position within track %s": "11%s: posición del tiempo en la pista %s",
+    "CD Audio object": "Objeto de audio CD",
+    "CD-Audio": "Audio CD",
+    "Continues playing even when the application is minimized": "Continua reproduciéndose incluso cuando la aplicación está minimizada",
+    "Current track number: %i": "Número de pista actual: %i",
+    "Enter the number of the track to play": "Introduce el número de la pista que quieres reproducir",
+    "Last known error: %i": "Último error conocido: %i",
+    "Length of current track: %02i:%02i": "Duración de la pista actual: %02i:%02i",
+    "Lets you play compact disc audio tracks.": "Permite reproducir pistas de audio de discos compactos.",
+    "Number of tracks on disk: %i": "Número de pistas en el disco: %i",
+    "Open driver at start": "Abrir controlador al iniciar",
+    "Opening the driver at start of frame makes the object faster during runtime": "Abrir el controlador al inicio del fotograma hace que el objeto sea más rápido durante la ejecución.",
+    "Play track at start": "Reproducir pista al iniciar",
+    "Play when minimized": "Reproducir cuando esté minimizado",
+    "Position in current track: %02i:%02i": "Posición en la pista actual: %02i:%02i",
+    "Stop playing at end of frame": "Detener la reproducción al final del fotograma",
+    "Stops the music at end of frame": "Detiene la música al final del fotograma",
+    "Total length of disk: %02i:%02i:%02i": "Duración total del disco: %02i:%02i:%02i"
+  },
+  "menu_20000": {
+    "Close door": "Cerrar puerta",
+    "Next track": "Siguiente pista",
+    "Open door": "Abrir la puerta",
+    "Pause": "Pausar",
+    "Play a track": "Reproducir una pista",
+    "Play a track and continue": "Reproducir una pista y continuar",
+    "Play at position": "Reproducir en la posición",
+    "Previous track": "Pista anterior",
+    "Resume": "Reanudar",
+    "Stop": "Parar"
+  },
+  "menu_20001": {
+    "Compare to time position": "Comparar con la posición de tiempo",
+    "Compare to track's elapsed time": "Comparar con el tiempo transcurrido de la pista"
+  },
+  "menu_20002": {
+    "Last error number": "Número de último error",
+    "Length of current track (1/1000s)": "Duración de la pista actual (1/1000 s)",
+    "Length of disk (1/1000s)": "Duración del disco (1/1000s)",
+    "Number of current track": "Número de pista actual",
+    "Number of tracks": "Número de pistas",
+    "Position in current track (1/1000s)": "Posición en la pista actual (1/1000 s)",
+    "Position in disk (1/1000s)": "Posición en disco (1/1000s)"
+  }
+}

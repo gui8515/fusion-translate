@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "About": "Acerca de",
     "Action to take when spiral reaches the minimum or maximum radius.": "Acción a tomar cuando la espiral alcanza el radio mínimo o máximo.",

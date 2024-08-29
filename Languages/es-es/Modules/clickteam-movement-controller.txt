@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Add dir speed of %1 towards angle %0": "Añadir velocidad direccional de %1 hacia el ángulo %0",
     "Add dir speed of %1 towards object %0": "Añadir velocidad de dirección de %1 hacia objeto %0",

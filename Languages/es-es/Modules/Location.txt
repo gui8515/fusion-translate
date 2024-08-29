@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "A new location is available": "Un nuevo lugar está disponible",
+    "Accuracy": "Precisión",
+    "Are location services enabled?": "¿Están activados los servicios de ubicación?",
+    "Best accuracy": "Mejor precisión",
+    "Choose the device accuracy": "Elija la precisión del dispositivo",
+    "Distance": "Distancia",
+    "Enter the accuracy (0 to 4)": "Introduce la precisión (de 0 a 4)",
+    "Enter the distance filter in meters": "Introduzca el filtro de distancia en metros",
+    "Enter the minimal distance in meters between two location updates": "Introduzca la distancia mínima en metros entre dos actualizaciones de ubicación",
+    "Force location retrieval": "Forzar la recuperación de ubicación",
+    "Hundred meters": "Cien metros",
+    "Kilometer": "Kilómetro",
+    "Location object": "Objeto de ubicación",
+    "Nearest ten meters": "Diez metros más cercanos",
+    "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).": "Obtiene la ubicación actual del GPS en dispositivos que lo soportan, como el iPhone o Android.",
+    "Set distance filter to %0": "Definir filtro de distancia a %0",
+    "Set location accuracy to %0": "Definir la precisión de la ubicación en %0",
+    "Three kilometers": "Tres kilómetros"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Get location": "Obtener ubicación",
+    "Set accuracy": "Definir precisión",
+    "Set distance filter": "Definir filtro de distancia"
+  },
+  "menu_20001": {
+    "A new location is available": "Un nuevo lugar está disponible",
+    "Conditions": "Condiciones",
+    "Location services enabled?": "¿Se han habilitado los servicios de ubicación?"
+  },
+  "menu_20002": {
+    "Accuracy": "Precisión",
+    "Altitude": "Altitud",
+    "Coordinates": "Coordenadas",
+    "Course": "Curso",
+    "Distance filter": "Filtro de distancia",
+    "Expressions": "Expresiones",
+    "Latitude": "Latitud",
+    "Longitude": "Longitud",
+    "Other values": "Otros valores",
+    "Speed": "Velocidad",
+    "Time since last update": "Tiempo desde la última actualización"
+  }
+}

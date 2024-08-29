@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "<Enter joint name>": "\"<Introduce el nombre de la articulación>\"",
     "<Enter object name>": "\"<Introducir nombre de objeto>\"",

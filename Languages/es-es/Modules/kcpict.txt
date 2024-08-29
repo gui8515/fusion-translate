@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "00Hide": "Ocultar",
+    "00Image resize off": "Desactivar redimensionamiento de imagen 00",
+    "00Image resize on": "Redimensionar imagen 00",
+    "00New picture from selector": "Nueva imagen del selector",
+    "00Show": "Mostrar 00",
+    "00WARNING !!! Change this action to New picture": "00ADVERTENCIA !!! Cambie esta acción a Nueva imagen",
+    "01%s: a picture is loaded": "01%s: se ha cargado una imagen",
+    "01New picture : %s": "01Nueva imagen: %s",
+    "10%s: visible": "10%s: visible",
+    "Choose the picture to display": "Elija la imagen que desea mostrar",
+    "Custom": "Personalizado",
+    "Displays an image file as background object.": "Muestra un archivo de imagen como objeto de fondo.",
+    "First Pixel": "Primer píxel",
+    "Hide at start of frame": "Ocultar al inicio del frame",
+    "Hides the picture when the frame starts": "Oculta la imagen cuando el cuadro comienza",
+    "Picture": "Imagen",
+    "Picture filename": "Nombre de archivo de imagen",
+    "Picture name: %s": "Nombre de la imagen: %s",
+    "Picture object": "Objeto de imagen",
+    "Please select a picture": "Por favor, seleccione una imagen",
+    "Resize picture to the size of the object": "Redimensionar la imagen al tamaño del objeto",
+    "The picture will be stretched to match the size of the object itself": "La imagen se estirará para ajustarse al tamaño del objeto en sí.",
+    "Transparent Color": "Color transparente"
+  },
+  "menu_20000": {
+    "Image resize off": "Desactivar ajuste de imagen",
+    "Image resize on": "Reescalar imagen en",
+    "Make Object Invisible": "Hacer invisible el objeto",
+    "Make Object Reappear": "Hacer que el objeto vuelva a aparecer",
+    "New picture": "Nueva imagen",
+    "New picture from selector": "Nueva imagen del selector",
+    "Visibility": "Visibilidad"
+  },
+  "menu_20001": {
+    "A picture is loaded ?": "¿Se carga una imagen?",
+    "Is visible ?": "¿Es visible?"
+  },
+  "menu_20002": {
+    "Get X position": "Obtener posición X",
+    "Get Y position": "Obtener posición Y",
+    "Get picture name": "Obtener el nombre de la imagen",
+    "Get picture original x size": "Obtener tamaño original X de la imagen",
+    "Get picture original y size": "Obtener el tamaño original de la imagen y",
+    "Get picture screen x size": "Obtener tamaño de pantalla X de la imagen",
+    "Get picture screen y size": "Obtener tamaño Y de pantalla de imagen"
+  }
+}

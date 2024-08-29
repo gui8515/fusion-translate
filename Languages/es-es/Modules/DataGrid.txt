@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o : Click with left button": "%o : Haz clic con el botón izquierdo",
     "%o : Click with right button": "%o : Haz clic con el botón derecho",

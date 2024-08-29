@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o: current key exists": "%o: la tecla actual existe",
+    "%o: key %0\\%1 exists": "%o: la tecla %0\\%1 existe",
+    "%o: last action successful": "%o: última acción exitosa",
+    "%o: value %0 of current key exists": "\"%o: el valor %0 de la clave actual existe\"",
+    "%o: value %2 of key %0\\%1 exists": "\"%o: existe el valor %2 de la clave %0\\%1\"",
+    "0=32-bit, 1=64-bit": "0=32 bits, 1=64 bits",
+    "Create current key": "Crear la clave actual",
+    "Create key %0\\%1": "Crear tecla %0\\%1",
+    "Current Key = %s": "Tecla actual = %s",
+    "Current Root Key = %s": "Clave raíz actual = %s",
+    "Delete current key": "Eliminar la tecla actual",
+    "Delete key %0\\%1": "Eliminar tecla %0\\%1",
+    "Delete value %0 of current key": "Eliminar el valor %0 de la clave actual",
+    "Delete value %2 of key %0\\%1": "Eliminar el valor %2 de la clave %0\\%1",
+    "Invalid parameters.": "Parámetros inválidos.",
+    "Key name": "Nombre de tecla",
+    "Registry2": "Registro2",
+    "Root key": "Clave raíz",
+    "Set 64-bit mode to %0": "Definir modo de 64 bits en %0",
+    "Set current key to %0": "Definir tecla actual a %0",
+    "Set root key to %0": "Definir clave raíz como %0",
+    "Set value %0 of current key to %1": "Definir valor %0 de la tecla actual en %1",
+    "Set value %2 of key %0\\%1 to %3": "Definir valor %2 de la clave %0\\%1 en %3",
+    "The Registry2 object allows you to retrieve or write values from or to the registry.": "El objeto Registro2 le permite recuperar o escribir valores en el registro.",
+    "The value you try to read from is not a DWORD value.": "El valor que intenta leer no es un valor DWORD.",
+    "The value you try to read from is not a string value.": "El valor que intentas leer no es un valor de cadena.",
+    "Value name": "Nombre del valor"
+  },
+  "dialog_101": {
+    "Cancel": "Cancelar",
+    "OK": "Aceptar",
+    "Select a root key": "Seleccionar una clave raíz"
+  },
+  "menu_20000": {
+    "Any Key": "Cualquier tecla",
+    "Create Current Key": "Crear Clave Actual",
+    "Create Key": "Crear Clave",
+    "Current Key": "Tecla actual",
+    "Delete Current Key": "Eliminar la tecla actual",
+    "Delete Key": "Eliminar Tecla",
+    "Delete Value": "Eliminar Valor",
+    "Set 64-bit mode": "Definir modo de 64 bits",
+    "Set Current Key": "Definir Tecla Actual",
+    "Set Current Root Key": "Definir Clave Raíz Actual",
+    "Set DWORD Value": "Definir Valor DWORD",
+    "Set String Value": "Definir Valor de Texto"
+  },
+  "menu_20001": {
+    "Current key exists": "La tecla actual existe",
+    "Key exists": "La clave existe",
+    "Last action successful": "Última acción exitosa",
+    "Value exists": "Valor existe",
+    "Value exists in current key": "Valor existe en la clave actual"
+  },
+  "menu_20002": {
+    "Any Key": "Cualquier tecla",
+    "Current Key": "Tecla actual",
+    "Get Current Key": "Obtener Tecla Actual",
+    "Get Current Root Key": "Obtener la raíz clave actual",
+    "Get DWORD Value": "Obtener Valor DWORD",
+    "Get String Value": "Obtener Valor de Texto",
+    "Last error code": "Código de error último",
+    "Last error message": "Último mensaje de error"
+  }
+}

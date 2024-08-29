@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Advanced Scrolling": "Desplazamiento avanzado",
     "Back": "Atrás",

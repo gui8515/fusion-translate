@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: %0 is a file": "%o: %0 es un archivo",
     "%o: Double Click": "%o: Doble clic",

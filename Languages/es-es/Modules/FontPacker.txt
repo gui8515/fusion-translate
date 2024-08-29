@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: Is Internal font %0 available?": "%o: ¿Está disponible la fuente interna %0?",
     "%o: Is Packed font %0 available?": "%o: ¿Está disponible la fuente empaquetando %0?",

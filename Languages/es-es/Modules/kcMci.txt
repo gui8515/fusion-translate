@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "01Return string%s": "01Devolver cadena %s",
+    "01Return value%s": "Valor de retorno %s",
+    "01Send %s": "Enviar %s",
+    "Any sound will be terminated prior to sending a command": "Cualquier sonido se terminará antes de enviar un comando",
+    "Check this box to close the device when the frame ends": "Marque esta casilla para cerrar el dispositivo cuando finalice el cuadro.",
+    "Check this box to open the device at start of frame": "Marque esta casilla para abrir el dispositivo al inicio del fotograma",
+    "Close MCI device at end of frame": "Cerrar el dispositivo MCI al final del fotograma",
+    "Close sound device before sending commands": "Cerrar el dispositivo de sonido antes de enviar comandos",
+    "Device": "Dispositivo",
+    "Device name": "Nombre del dispositivo",
+    "Display all error messages": "Mostrar todos los mensajes de error",
+    "Display in a dialog box any error message": "Mostrar en un cuadro de diálogo cualquier mensaje de error",
+    "Enter the name of the device": "Introduzca el nombre del dispositivo",
+    "Last error: %i": "Último error: %i",
+    "MCI": "MCI",
+    "MCI object": "Objeto MCI",
+    "Microsoft standard for controlling any multimedia device connected to your computer.": "Estándar de Microsoft para controlar cualquier dispositivo multimedia conectado a su computadora.",
+    "Open MCI device at start of frame": "Abrir dispositivo MCI al inicio del fotograma",
+    "Options": "Opciones",
+    "Pause command": "Comando de pausa",
+    "Please, enter a valid device name.": "Por favor, introduce un nombre de dispositivo válido.",
+    "Resume command": "Reanudar comando",
+    "Return string: %s": "Devolver cadena: %s",
+    "String to send to the device when a Pause happens": "Cadena para enviar al dispositivo cuando ocurre una pausa",
+    "String to send to the device when resuming from a pause": "Cadena para enviar al dispositivo al reanudarse desde una pausa"
+  },
+  "menu_20000": {
+    "Send a command": "Enviar un comando"
+  },
+  "menu_20001": {
+    "Compare to returned number": "Comparar con número devuelto",
+    "Compare to returned string": "Comparar con cadena devuelta"
+  },
+  "menu_20002": {
+    "Last error number": "Número de último error",
+    "Return string": "Devolver texto",
+    "Return value": "Valor de retorno"
+  }
+}

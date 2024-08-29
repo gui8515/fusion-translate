@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: Close Video": "%o: Cerrar Vídeo",
     "%o: Compare Time Position (%0)": "%o: Comparar Posición Temporal (%0)",

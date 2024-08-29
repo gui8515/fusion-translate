@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Acceleration": "Aceleración",
     "Acceleration : %i": "Aceleración : %i",

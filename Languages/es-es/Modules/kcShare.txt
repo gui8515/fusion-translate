@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    " %s : Shared Data object": "%s : Objeto de datos compartidos",
+    "00Reset": "Reiniciar",
+    "01Shared string %s=%s": "01Cadena compartida %s=%s",
+    "01Shared string %s=str$(%s)": "01Cadena compartida %s=cadena$(%s)",
+    "01Shared value %s=%s": "Valor compartido %s=%s",
+    "01Shared value %s=val(%s)": "Valor compartido 01 %s=val(%s)",
+    "11%s: Condition example %s=%s": "11%s: Ejemplo de condición %s=%s",
+    "Allows different applications to share data (numbers and/or text).": "Permite que diferentes aplicaciones compartan datos (números y/o texto).",
+    "Create a new Shared Data object": "Crear un nuevo objeto de datos compartidos",
+    "Double click to inspect/modify a shared string": "Haga doble clic para inspeccionar/modificar una cadena compartida",
+    "Double click to inspect/modify a shared value": "Haga doble clic para inspeccionar/modificar un valor compartido",
+    "Enter number value": "Introduzca un valor numérico",
+    "Enter number value to be stored as string value": "Introduzca el valor numérico que se almacenará como valor de cadena",
+    "Enter string to be stored as number value": "Introduzca la cadena que se almacenará como valor numérico",
+    "Enter string value": "Introducir valor de cadena",
+    "Index": "Índice",
+    "Index of the value (zero based)": "Índice del valor (cero basado)",
+    "ShareMem object": "Compartir objeto de memoria",
+    "Shared Data": "Datos compartidos"
+  },
+  "dialog_102": {
+    "Index :": "Índice :",
+    "Inspect a long value": "Inspeccionar un valor largo",
+    "OK": "Aceptar",
+    "Value : ": "Valor :"
+  },
+  "dialog_103": {
+    "Index :": "Índice :",
+    "Inspect a string": "Inspeccionar una cadena",
+    "OK": "Aceptar",
+    "String": "texto"
+  },
+  "menu_20000": {
+    "Reset": "Reiniciar",
+    "Set shared string": "Definir texto compartido",
+    "Set shared string from value": "Definir texto compartido desde valor",
+    "Set shared value": "Definir valor compartido",
+    "Set shared value from string": "Definir valor compartido desde texto"
+  },
+  "menu_20001": {
+    "is Equal": "es igual"
+  },
+  "menu_20002": {
+    "Get shared String": "Obtener cadena compartida",
+    "Get shared value": "Obtener valor compartido",
+    "Get string from shared value": "Obtener texto del valor compartido",
+    "Get value from shared string": "Obtener valor de cadena compartida"
+  }
+}

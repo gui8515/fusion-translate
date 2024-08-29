@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: Is magnet active?": "%o: ¿Está activo el imán?",
     "Active at start": "Activo al inicio",

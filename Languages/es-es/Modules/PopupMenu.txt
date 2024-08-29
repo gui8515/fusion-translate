@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o: %0 selected": "%o: %0 seleccionado",
+    "%o: Add Item (%0, %1, %2)": "%o: Añadir elemento (%0, %1, %2)",
+    "%o: Add Menu (%0, %1, %2)": "%o: Añadir menú (%0, %1, %2)",
+    "%o: Add Separator (%0)": "%o: Añadir separador (%0)",
+    "%o: Create Menu": "%o: Crear Menú",
+    "%o: Delete Item (%0)": "%o: Eliminar elemento (%0)",
+    "%o: Item %0 Selected": "%o: Se ha seleccionado el elemento %0",
+    "%o: Set Check (%0, %1)": "%o: Definir Marcar (%0, %1)",
+    "%o: Set Enable (%0, %1)": "%o: Definir Habilitar (%0, %1)",
+    "%o: Set Item Text (%0, %1)": "%o: Definir Texto del Elemento (%0, %1)",
+    "%o: Show Menu": "%o: Mostrar Menú",
+    "%o: Show Menu at %0": "%o: Mostrar menú en %0",
+    "1 to check, 0 to uncheck": "1 para marcar, 0 para desmarcar",
+    "1 to enable, 0 to disable": "1 para activar, 0 para desactivar",
+    "Content of the menu": "Contenido del menú",
+    "Edit content": "Editar contenido",
+    "Filename": "Nombre de archivo",
+    "Height": "Altura",
+    "Item ID": "ID del elemento",
+    "Item String": "Cadena de texto del artículo",
+    "Item identifier": "Identificador del elemento",
+    "Last selection: %i": "Última selección: %i",
+    "Lets you create customizable popup menus in your applications.": "Le permite crear menús emergentes personalizables en sus aplicaciones.",
+    "Menu Index": "Índice del menú",
+    "New item": "Nuevo elemento",
+    "Opens a dialog box to edit the content of the popup menu": "Abre un cuadro de diálogo para editar el contenido del menú emergente",
+    "Popup Menu": "Menú emergente",
+    "Position": "Posición",
+    "SubMenu Index": "Índice del submenú",
+    "Value": "Valor"
+  },
+  "dialog_109": {
+    "Cancel": "Cancelar",
+    "Item Text": "Texto del elemento",
+    "OK": "Aceptar"
+  },
+  "dialog_20003": {
+    "&Add": "&Añadir",
+    "&Del": "&Supr",
+    "&Help": "&Ayuda",
+    "Add &Separator": "Añadir &Separador",
+    "Cancel": "Cancelar",
+    "Default Menu": "Menú predeterminado",
+    "Down": "Abajo",
+    "Item Identifier": "Identificador de elemento",
+    "Left": "Izquierda",
+    "OK": "Aceptar",
+    "Right": "Derecha",
+    "Setup PopupMenu": "Configurar Menú Desplegable",
+    "Tree1": "Árbol1",
+    "Up": "Arriba"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Add Item": "Añadir elemento",
+    "Add Menu": "Añadir Menú",
+    "Add Separator": "Añadir separador",
+    "Check / Uncheck": "Marcar / Desmarcar",
+    "Create Menu": "Crear Menú",
+    "Delete Item": "Eliminar elemento",
+    "Enable / Disable": "Habilitar / Deshabilitar",
+    "Set Item Text": "Definir Texto del Elemento",
+    "Show At": "Mostrar en",
+    "Show At Mouse": "Mostrar en el ratón"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Item Selected (ID)": "Elemento Seleccionado (ID)",
+    "Item Selected (Text)": "Elemento seleccionado (texto)"
+  },
+  "menu_20002": {
+    "Expressions": "Expresiones",
+    "Get Item Text": "Obtener Texto del Objeto",
+    "Get Last Selected Item": "Obtener Último Elemento Seleccionado",
+    "Get Menu Count": "Obtener Cuenta de Menú"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: On Agreement Dialog with Id %0 and Button %1": "%o: En el diálogo de acuerdo con ID %0 y botón %1",
     "%o: On Alert Dialog with Id %0 and Button %1": "%o: En el diálogo de alerta con ID %0 y botón %1",

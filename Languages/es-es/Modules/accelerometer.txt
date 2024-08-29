@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "Accelerometer object": "Objeto acelerómetro",
     "Device orientation changed": "Se ha cambiado la orientación del dispositivo",

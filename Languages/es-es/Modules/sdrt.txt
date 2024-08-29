@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Cannot find %s!": "¡No se puede encontrar %s!",
+    "Cannot initialize application.": "No se puede inicializar la aplicación.",
+    "Cannot load %s. This object might need an external program or library not yet installed.": "No se puede cargar %s. Este objeto podría requerir un programa o biblioteca externo que aún no esté instalado.",
+    "Error while opening file.": "Error al abrir el archivo.",
+    "File error!": "¡Error de archivo!",
+    "Not enough memory!": "¡Memoria insuficiente!",
+    "There is not enough available space in the temporary drive. Free some disk space and try again.": "No hay suficiente espacio disponible en la unidad temporal. Libere espacio en el disco e inténtelo de nuevo.",
+    "This application has been built with an incompatible version of Clickteam Fusion.": "Esta aplicación se ha creado con una versión incompatible de Clickteam Fusion.",
+    "Unknown format!": "¡Formato desconocido!"
+  }
+}

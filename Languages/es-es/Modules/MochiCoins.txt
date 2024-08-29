@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o : Item has tag %0": "%o : El elemento tiene la etiqueta %0",
+    "%o : On error": "%o : En caso de error",
+    "%o : On item owned": "%o : Al poseer el objeto",
+    "%o : On new item": "%o : Al nuevo elemento",
+    "Add item %0 to show in store": "Añadir artículo %0 para mostrar en la tienda",
+    "Consumable name": "Nombre del consumible",
+    "Decrement consumable %0": "Decrementar consumible %0",
+    "Increment consumable %0": "Incrementar consumible %0",
+    "Item ID": "ID del elemento",
+    "Item tag or unique ID": "Etiqueta del elemento o ID único",
+    "Mochi Coins": "Monedas Mochi",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto se proporciona solo por razones de compatibilidad.",
+    "Property name": "Nombre de propiedad",
+    "Remove consumable %0": "Eliminar consumible %0",
+    "Set consumable %0 to %1": "Definir consumible %0 en %1",
+    "Show single item with ID %0": "Mostrar un solo elemento con ID %0",
+    "Show store": "Mostrar tienda",
+    "Show video for item with ID %0": "Mostrar vídeo para el artículo con ID %0",
+    "Tag": "Etiqueta",
+    "Value": "Valor"
+  },
+  "menu_20000": {
+    "Add item to show": "Añadir elemento para mostrar",
+    "Consumable": "Consumible",
+    "Decrement": "Disminuir",
+    "Increment": "Incrementar",
+    "Remove": "Eliminar",
+    "Set/create": "Definir/crear",
+    "Show item video": "Mostrar vídeo del artículo",
+    "Show single item": "Mostrar un solo elemento",
+    "Show store": "Mostrar tienda",
+    "Store": "Almacenar"
+  },
+  "menu_20001": {
+    "Item has tag": "El elemento tiene etiqueta",
+    "On error": "En caso de error",
+    "On item owned": "Al poseer el artículo",
+    "On new item": "Al nuevo elemento"
+  },
+  "menu_20002": {
+    "Get consumable amount": "Obtener cantidad consumible",
+    "Get item ID": "Obtener el ID del elemento",
+    "Get item count": "Obtener el recuento de elementos",
+    "Get item property": "Obtener propiedad del elemento"
+  }
+}

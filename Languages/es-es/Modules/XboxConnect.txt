@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o: Is gamer signed in?": "%o: ¿Está el jugador conectado?",
+    "%o: Is running on Xbox?": "%o: ¿Se está ejecutando en Xbox?",
+    "%o: On error occurred": "%o: Se produjo un error",
+    "%o: On login OK": "%o: Al iniciar sesión, OK",
+    "%o: On login failed": "%o: Error al iniciar sesión",
+    "%o: On profile info": "%o: En información del perfil",
+    "%o: On silent login OK": "%o: En inicio de sesión silencioso, OK",
+    "%o: On silent login failed": "%o: Error en inicio de sesión silencioso",
+    "Add Xbox Live connect features": "Añadir funciones de conexión con Xbox Live",
+    "Login": "Iniciar sesión",
+    "Read profile info": "Leer información del perfil",
+    "Silent Login": "Inicio de sesión silencioso",
+    "Xbox Connect": "Conectar Xbox",
+    "Xbox Connect Object": "Conectar objeto Xbox"
+  },
+  "menu_20000": {
+    "Login": "Iniciar sesión",
+    "Read Profile Info": "Leer información del perfil",
+    "Silent Login": "Inicio de sesión silencioso"
+  },
+  "menu_20001": {
+    "Is Gamer Signed In?": "¿Está el jugador conectado?",
+    "Is running on Xbox?": "¿Se está ejecutando en Xbox?",
+    "Normal Login ...": "Inicio de sesión normal ...",
+    "On Login OK": "Al iniciar sesión, OK",
+    "On Login failed": "Al iniciar sesión falló",
+    "On Profile Info": "En información del perfil",
+    "On Silent Login OK": "En inicio de sesión silencioso correcto",
+    "On Silent Login failed": "Inicio de sesión silencioso fallido",
+    "On error occurred": "Se produjo un error",
+    "Silent Login ...": "Inicio de sesión silencioso ..."
+  },
+  "menu_20002": {
+    "Error Code": "Código de Error",
+    "Error String": "Cadena de error",
+    "Player ID": "ID del jugador",
+    "Player Image URI": "URI de la imagen del jugador",
+    "Player Name": "Nombre del Jugador",
+    "Player Profile": "Perfil del Jugador",
+    "Player Score": "Puntuación del Jugador"
+  }
+}

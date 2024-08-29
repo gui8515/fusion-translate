@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "An error has occured": "Se ha producido un error",
     "Auto-resize": "Reescalar automáticamente",

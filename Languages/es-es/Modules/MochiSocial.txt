@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o : On error : Network error": "%o : En caso de error : Error de red",
+    "%o : On error : User not logged in": "%o : En caso de error : Usuario no iniciado sesión",
+    "%o : On player login": "%o : Al iniciar sesión el jugador",
+    "%o : On player logout": "%o : Al salir del jugador",
+    "%o : On user data %0 read": "%o : Al leer datos de usuario %0",
+    "%o : On user data %0 written": "%o : Cuando se escribe el dato de usuario %0",
+    "%o : Player has coins": "%o : El jugador tiene monedas",
+    "%o : Player is logged in": "%o : El jugador ha iniciado sesión",
+    "Hide login widget": "Ocultar widget de inicio de sesión",
+    "Key": "Tecla",
+    "Mochi Social": "Social de Mochi",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto se proporciona solo por razones de compatibilidad.",
+    "Read user data at key %0": "Leer datos de usuario en la clave %0",
+    "Show login widget": "Mostrar el widget de inicio de sesión",
+    "Value": "Valor",
+    "Write user data %1 to key %0": "Escribir datos de usuario %1 en la clave %0"
+  },
+  "menu_20000": {
+    "Hide login widget": "Ocultar widget de inicio de sesión",
+    "Read user data": "Leer datos de usuario",
+    "Show login widget": "Mostrar el widget de inicio de sesión",
+    "Write user data": "Escribir datos del usuario"
+  },
+  "menu_20001": {
+    "Network error": "Error de red",
+    "On error": "En caso de error",
+    "On player login": "Al iniciar sesión del jugador",
+    "On player logout": "Al salir del jugador",
+    "On user data read": "Al leer datos de usuario",
+    "On user data written": "Al escribir datos del usuario",
+    "Player has coins?": "¿El jugador tiene monedas?",
+    "Player is logged in": "El jugador ha iniciado sesión",
+    "User not logged in": "Usuario no ha iniciado sesión"
+  },
+  "menu_20002": {
+    "Get player name": "Obtener el nombre del jugador",
+    "Get player profile image URL": "Obtener la URL de la imagen del perfil del jugador",
+    "Get player unique identifier": "Obtener el identificador único del jugador",
+    "Get user data read value": "Obtener el valor de datos del usuario leído"
+  }
+}

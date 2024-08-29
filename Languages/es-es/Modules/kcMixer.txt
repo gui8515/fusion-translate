@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "01Change FM synthesizer left and right volume to %s": "Cambiar el volumen izquierdo y derecho del sintetizador FM a %s",
+    "01Change FM synthesizer left volume to %s": "Cambiar el volumen izquierdo del sintetizador FM a %s",
+    "01Change FM synthesizer right volume to %s": "Cambiar el volumen derecho del sintetizador FM a %s",
+    "01Change square wave synthesizer left and right volume to %s": "Cambiar el volumen izquierdo y derecho del sintetizador de onda cuadrada a %s",
+    "01Change square wave synthesizer left volume to %s": "Cambiar el volumen izquierdo del sintetizador de onda cuadrada a %s",
+    "01Change square wave synthesizer right volume to %s": "Cambiar el volumen derecho del sintetizador de onda cuadrada a %s",
+    "01Change wave left and right volume to %s": "Cambiar el volumen de onda izquierda y derecha a %s",
+    "01Change wave left volume to %s": "Cambiar el volumen de onda izquierda a %s",
+    "01Change wave right volume to %s": "Cambiar el volumen de onda derecha a %s",
+    "Gives you direct control over the volume of your sound samples and MIDI music files.": "Te permite controlar directamente el volumen de tus muestras de sonido y archivos de música MIDI.",
+    "Mixer": "Mezclador",
+    "Mixer object": "Objeto mezclador"
+  },
+  "menu_20000": {
+    "Change FM synthesizer left and right volume": "Cambiar el volumen izquierdo y derecho del sintetizador FM",
+    "Change FM synthesizer left volume": "Cambiar el volumen izquierdo del sintetizador FM",
+    "Change FM synthesizer right volume": "Cambiar el volumen derecho del sintetizador FM",
+    "Change square wave synthesizer left and right volume": "Cambiar el volumen izquierdo y derecho del sintetizador de onda cuadrada",
+    "Change square wave synthesizer left volume": "Cambiar el volumen izquierdo del sintetizador de onda cuadrada",
+    "Change square wave synthesizer right volume": "Cambiar el volumen derecho del sintetizador de onda cuadrada",
+    "Change wave left and right volume": "Cambiar el volumen de onda izquierda y derecha",
+    "Change wave left volume": "Cambiar volumen de onda izquierda",
+    "Change wave right volume": "Cambiar volumen de onda derecha"
+  },
+  "menu_20002": {
+    "Midi FM synthesizer left volume": "Volumen de salida izquierda del sintetizador MIDI FM",
+    "Midi FM synthesizer right volume": "Volumen derecho del sintetizador MIDI FM",
+    "Midi square wave synthesizer left volume": "Volumen de onda cuadrada del sintetizador MIDI izquierdo",
+    "Midi square wave synthesizer right volume": "Volumen de onda cuadrada del sintetizador MIDI derecho",
+    "Wave left volume": "Volumen de onda izquierda",
+    "Wave right volume": "Volumen de onda derecha"
+  }
+}

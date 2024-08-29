@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "00On error": "00En caso de error",
     "01Open URL %s in current window": "Abrir URL %s en la ventana actual",

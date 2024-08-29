@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "About": "Acerca de",
     "Action to take when movement ends.": "Acción a tomar cuando finaliza el movimiento.",

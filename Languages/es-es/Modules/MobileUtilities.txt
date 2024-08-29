@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise": "0: sin rotación, 1: 90 en el sentido de las agujas del reloj, 2: 90 en sentido contrario a las agujas del reloj",
+    "Application running on mobile": "Aplicación en ejecución en móvil",
+    "For debugging purposes only! Indicates screen orientation at start": "¡Solo para depuración! Indica la orientación de la pantalla al inicio",
+    "Landscape": "Paisaje",
+    "Left key down (F10)": "Pulsar flecha izquierda (F10)",
+    "Left key pressed (F10)": "Tecla izquierda pulsada (F10)",
+    "Mobile Utilities": "Utilidades Móviles",
+    "Portrait": "Retrato",
+    "Refresh display": "Actualizar la pantalla",
+    "Right key down (F11)": "Flecha derecha abajo (F11)",
+    "Right key pressed (F11)": "Tecla derecha pulsada (F11)",
+    "Screen orientation": "Orientación de la pantalla",
+    "Screen orientation has changed": "La orientación de la pantalla ha cambiado",
+    "Set of utilities for Java Mobile applications": "Conjunto de utilidades para aplicaciones móviles Java",
+    "Set window rotation to %0": "Definir rotación de ventana a %0"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Refresh display": "Actualizar la pantalla",
+    "Set window rotation": "Definir rotación de ventana"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Is application running on Mobile": "¿Se ejecuta la aplicación en un dispositivo móvil?",
+    "Left key": "Tecla izquierda",
+    "Left key down": "Tecla izquierda abajo",
+    "Left key pressed": "Tecla izquierda pulsada",
+    "Right key": "Tecla derecha",
+    "Right key down": "Tecla derecha abajo",
+    "Right key pressed": "Tecla derecha pulsada",
+    "Screen orientation has changed": "La orientación de la pantalla ha cambiado"
+  },
+  "menu_20002": {
+    "Expressions": "Expresiones",
+    "Get screen height": "Obtener altura de pantalla",
+    "Get screen orientation": "Obtener la orientación de la pantalla",
+    "Get screen width": "Obtener el ancho de la pantalla",
+    "Get window rotation": "Obtener rotación de ventana"
+  }
+}

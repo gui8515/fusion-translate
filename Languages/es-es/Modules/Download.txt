@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "#Title#Enter the name of the destination file...": "#Título#Introduzca el nombre del archivo de destino...",
     "%o: Connection error in slot %0": "%o: Error de conexión en la ranura %0",

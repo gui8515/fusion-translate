@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "%o: Is branding enabled?": "%o: ¿Está activada la marca?",
     "%o: Is cross-promotion enabled?": "%o: ¿Está habilitada la promoción cruzada?",

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o : On leaderboard closed": "%o : Al cerrar la clasificación",
+    "%o : On leaderboard displayed": "%o : En la tabla de clasificación mostrada",
+    "Leaderboard ID": "ID del ranking",
+    "Mochi Scores": "Puntuaciones Mochi",
+    "Name": "Nombre",
+    "Obsolete. This object is provided for compatibility reasons only.": "Obsoleto. Este objeto se proporciona solo por razones de compatibilidad.",
+    "Score": "Puntuación",
+    "Set Leaderboard ID to %0": "Definir ID de clasificación como %0",
+    "Show leaderboard": "Mostrar la clasificación",
+    "Submit score %0 and ask for a name": "Enviar puntuación %0 y pedir un nombre",
+    "Submit score %0 with name %1": "Enviar puntuación %0 con el nombre %1"
+  },
+  "menu_20000": {
+    "Set leaderboard ID": "Definir ID de clasificación",
+    "Show leaderboard": "Mostrar la clasificación",
+    "Submit score (ask for a name)": "Enviar puntuación (solicitar un nombre)",
+    "Submit score (specify a name)": "Enviar puntuación (especificar un nombre)"
+  },
+  "menu_20001": {
+    "On leaderboard closed": "Al cerrar la clasificación",
+    "On leaderboard displayed": "Al mostrar la clasificación"
+  }
+}

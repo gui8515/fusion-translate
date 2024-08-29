@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "00Block left click": "Haz clic izquierdo en el bloque 00",
+    "00Block middle click": "Clic medio en el bloque 00",
+    "00Block right click": "Clic derecho en el bloque 00",
+    "00Unblock left click": "Desbloquear clic izquierdo 00",
+    "00Unblock middle click": "Desbloquear clic central",
+    "00Unblock right click": "Desbloquear clic derecho 00",
+    "Block left mouse button": "Bloquear botón izquierdo del ratón",
+    "Block middle mouse button": "Bloquear botón del ratón central",
+    "Block right mouse button": "Bloquear botón derecho del ratón",
+    "Blocks the left, middle and/or right clicks of the mouse.": "Bloquea los clics izquierdo, central y/o derecho del ratón.",
+    "Click Blocker": "Bloqueador de clics",
+    "Click Blocker object": "Objeto bloqueador de clics",
+    "Left mouse button %s": "Botón izquierdo del ratón %s",
+    "Left mouse clicks will have no effects": "Los clics del botón izquierdo del ratón no tendrán ningún efecto",
+    "Middle mouse button %s": "Botón del ratón central %s",
+    "Middle mouse clicks will have no effects": "Los clics del botón del ratón central no tendrán ningún efecto",
+    "Right mouse button %s": "Botón derecho del ratón %s",
+    "Right mouse clicks will have no effects": "Los clics con el botón derecho del ratón no tendrán ningún efecto.",
+    "blocked": "bloqueado",
+    "unblocked": "desbloqueado"
+  },
+  "menu_20000": {
+    "&Left click": "Haz clic izquierdo",
+    "&Middle click": "&Clic medio",
+    "&Right click": "Haz clic derecho",
+    "Block": "Bloque",
+    "Unblock": "Desbloquear"
+  }
+}

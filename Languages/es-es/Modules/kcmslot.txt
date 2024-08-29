@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "00Reset error": "00Restablecer error",
+    "01Close channel %s": "01Cerrar canal %s",
+    "01Open channel %s as %s": "Abrir canal %s como %s",
+    "02Send number %s to slot %s": "Enviar número %s a la ranura %s",
+    "02Send string %s to slot %s": "Enviar cadena %s a la ranura %s",
+    "10%s : Error": "10%s : Error",
+    "11%s : Message available on channel %s": "11%s : Mensaje disponible en el canal %s",
+    "Allows applications to communicate through a local network by opening a channel for communication between two computers.": "Permite que las aplicaciones se comuniquen a través de una red local abriendo un canal de comunicación entre dos ordenadores.",
+    "Channel number": "Número de canal",
+    "Last error: %s": "Último error: %s",
+    "Network": "Red",
+    "Network object": "Objeto de red",
+    "Number to Send": "Número para enviar",
+    "Slot name": "Nombre de la ranura",
+    "String to send": "Cadena para enviar"
+  },
+  "menu_20000": {
+    "Close channel": "Cerrar canal",
+    "Open channel": "Abrir canal",
+    "Reset error": "Restablecer el error",
+    "Send number": "Enviar número",
+    "Send string": "Enviar texto"
+  },
+  "menu_20001": {
+    "Error": "Error",
+    "Message available": "Mensaje disponible"
+  },
+  "menu_20002": {
+    "Get current status": "Obtener el estado actual",
+    "Get last error": "Obtener el último error",
+    "Get last error string": "Obtener la cadena de error anterior",
+    "Get number": "Obtener número",
+    "Get string": "Obtener texto"
+  }
+}

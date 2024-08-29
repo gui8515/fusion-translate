@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%o: Friends list has been loaded": "%o: Se ha cargado la lista de amigos",
+    "%o: Invitations sent": "%o: invitaciones enviadas",
+    "%o: Local player has just authenticated": "%o: El jugador local acaba de autenticarse",
+    "%o: Local player is authenticated": "%o: El jugador local está autenticado",
+    "Add invitation to friend number %0": "Añadir invitación al amigo número %0",
+    "Allows Apple's Game Center features in your iOS application.": "Permite las funciones de Game Center de Apple en tu aplicación iOS.",
+    "Authenticate OK": "Autenticación correcta",
+    "Authenticate at start of frame": "Autenticar al inicio del fotograma",
+    "Authenticate local player": "Autenticar jugador local",
+    "Enter friend index (starting at 0)": "Introduce el índice del amigo (empezando en 0)",
+    "Enter the alias name of the simulated local player": "Introduce el nombre de alias del jugador local simulado",
+    "Enter the player's simulated ID": "Introduzca la ID simulada del jugador",
+    "Friend number 1": "Amigo número 1",
+    "Friend number 1 ID": "ID del amigo número 1",
+    "Friend number 2": "Amigo número 2",
+    "Friend number 2 ID": "ID del amigo número 2",
+    "Game Center Connect": "Conectar con Game Center",
+    "If checked, the local player will be authenticated at start of frame": "Si está marcada, el jugador local se autenticará al inicio del fotograma",
+    "Load friends list": "Cargar lista de amigos",
+    "Player's Alias": "Alias del jugador",
+    "Player's ID": "ID del jugador",
+    "Reset invitations": "Restablecer invitaciones",
+    "Send invitations": "Enviar invitaciones",
+    "Simulates a correct local player authentication": "Simula una autenticación correcta del jugador local",
+    "Simulation": "Simulación",
+    "The best player": "El mejor jugador",
+    "Welcome back %s": "Bienvenido de nuevo %s",
+    "johnny@gmail.com": "johnny@gmail.com"
+  },
+  "menu_20000": {
+    "Actions": "Acciones",
+    "Add invitation": "Añadir invitación",
+    "Authenticate local player": "Autenticar jugador local",
+    "Friends": "Amigos",
+    "Load friends list": "Cargar lista de amigos",
+    "Local player": "Jugador local",
+    "Reset invitations": "Restablecer invitaciones",
+    "Send invitations": "Enviar invitaciones"
+  },
+  "menu_20001": {
+    "Conditions": "Condiciones",
+    "Friend list has been loaded": "Se ha cargado la lista de amigos",
+    "Friends": "Amigos",
+    "Invitations have been sent": "Se han enviado invitaciones",
+    "Local player": "Jugador local",
+    "Local player has just authenticated": "El jugador local acaba de autenticarse",
+    "Local player is authenticated": "El jugador local está autenticado"
+  },
+  "menu_20002": {
+    "Expressions": "Expresiones",
+    "Friends": "Amigos",
+    "Get friend ID": "Obtener ID de amigo",
+    "Get friend alias": "Obtener alias de amigo",
+    "Get local player ID": "Obtener ID del jugador local",
+    "Get local player alias": "Obtener el alias del jugador local",
+    "Get number of friends": "Obtener el número de amigos",
+    "Local player": "Jugador local"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lang": 1046,
+  "lang": 1034,
   "general": {
     "00Capture Active Window": "Capturar ventana activa 00",
     "00Capture Frame Area": "Capturar área del frame 00",

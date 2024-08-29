@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Controller for the InAndOut movement.": "Controlador para el movimiento de entrada y salida.",
+    "InAndOut Movement Controller": "Controlador de Movimiento de Entrada y Salida",
+    "Move object in": "Mover objeto en",
+    "Move object out": "Mover objeto fuera",
+    "Position object at end": "Posicionar objeto al final",
+    "Position object at start": "Posicionar objeto al inicio",
+    "Select an object": "Selecciona un objeto",
+    "Set object to %0": "Definir objeto a %0",
+    "Set object with fixed value %0": "Definir objeto con valor fijo %0",
+    "fixed value": "valor fijo"
+  },
+  "menu_20000": {
+    "Move object in": "Mover objeto en",
+    "Move object out": "Mover objeto fuera",
+    "Position object at end": "Posicionar objeto al final",
+    "Position object at start": "Posicionar objeto al inicio",
+    "Set object": "Definir objeto",
+    "Set object from fixed value": "Definir objeto desde un valor fijo"
+  }
+}

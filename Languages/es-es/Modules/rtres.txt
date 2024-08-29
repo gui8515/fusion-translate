@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "%d (Num. keypad)": "%d (Teclado numérico)",
+    "An error has occured while reading the file.": "Se ha producido un error al leer el archivo.",
+    "An error has occured while writing the file.": "Se ha producido un error al escribir el archivo.",
+    "Backspace": "Retroceso",
+    "Clear": "Limpiar",
+    "Control": "Controlar",
+    "Del": "Eliminar",
+    "Down Arrow": "Flecha abajo",
+    "End": "Fin",
+    "Enter": "Entrar",
+    "Escape": "Esc",
+    "Execute": "Ejecutar",
+    "Home": "Inicio",
+    "Ins": "Intro",
+    "Joystick not connected or driver not installed.": "El joystick no está conectado o el controlador no está instalado.",
+    "Left Arrow": "Flecha izquierda",
+    "Page Down": "Página Abajo",
+    "Page Up": "Página arriba",
+    "Right Arrow": "Flecha derecha",
+    "Select": "Seleccionar",
+    "Shift": "Mayúsculas",
+    "Space bar": "Barra espaciadora",
+    "Tab": "Pestaña",
+    "The current frame is not the same as the saved one.": "El fotograma actual no es el mismo que el guardado.",
+    "This file is not a position file.": "Este archivo no es un archivo de posición.",
+    "This file was not saved by this application.": "Este archivo no fue guardado por esta aplicación.",
+    "This file was saved by a incompatible version of the application.": "Este archivo fue guardado por una versión incompatible de la aplicación.",
+    "This file was saved with an incompatible version of MMF runtime.": "Este archivo se guardó con una versión incompatible del tiempo de ejecución de MMF.",
+    "Up Arrow": "Flecha Arriba"
+  },
+  "dialog_110": {
+    "About": "Acerca de",
+    "OK": "Aceptar"
+  },
+  "dialog_111": {
+    "Application paused": "Aplicación pausada",
+    "Continue": "Continuar"
+  },
+  "dialog_112": {
+    "Cancel": "Cancelar",
+    "Default Controls": "Controles predeterminados",
+    "Joystick 1": "Mando 1",
+    "Joystick 2": "Joystick 2",
+    "Joystick 3": "Joystick 3",
+    "Joystick 4": "Joystick 4",
+    "Keyboard": "Teclado",
+    "OK": "Aceptar",
+    "Player controls": "Controles del jugador"
+  },
+  "dialog_113": {
+    "Button 1": "Botón 1",
+    "Button 2": "Botón 2",
+    "Button 3": "Botón 3",
+    "Button 4": "Botón 4",
+    "Cancel": "Cancelar",
+    "Down": "Abajo",
+    "Keyboard setup": "Configuración del teclado",
+    "Left": "Izquierda",
+    "OK": "Aceptar",
+    "Press a key ... (or ESC to cancel)": "Pulse una tecla ... (o ESC para cancelar)",
+    "Right": "Derecha",
+    "Up": "Arriba"
+  },
+  "dialog_114": {
+    "Cancel": "Cancelar",
+    "Enter password": "Introduzca la contraseña",
+    "OK": "Aceptar"
+  }
+}

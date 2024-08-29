@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "lang": 1034,
+  "general": {
+    "Cannot find %s!": "¡No se puede encontrar %s!",
+    "Cannot initialize application.": "No se puede inicializar la aplicación.",
+    "Cannot load %s. This object might need an external program or library not yet installed.": "No se puede cargar %s. Este objeto podría requerir un programa o biblioteca externo que aún no esté instalado.",
+    "Error while opening file.": "Error al abrir el archivo.",
+    "File error!": "¡Error de archivo!",
+    "Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again.": "No hay suficiente memoria para iniciar la Ayuda.\n\nCierre una o más aplicaciones para aumentar la memoria disponible y vuelva a intentarlo.",
+    "Not enough memory!": "¡Memoria insuficiente!",
+    "Screen Saver": "Ahorrador de pantalla",
+    "Screen Saver.Click                   ": "Ahorrador de pantalla.Click",
+    "Screen saver description": "Descripción del protector de pantalla",
+    "ScreenSaver": "Ahorrador de pantalla",
+    "There is not enough available space in the temporary drive. Free some disk space and try again.": "No hay suficiente espacio disponible en la unidad temporal. Libere espacio en el disco e inténtelo de nuevo.",
+    "This application has been built with an incompatible version of Clickteam Fusion.": "Esta aplicación se ha creado con una versión incompatible de Clickteam Fusion.",
+    "Unknown format!": "¡Formato desconocido!",
+    "control.hlp": "## control.hlp (es-es)\n\n**; Control Help File**\n\n**[CONTROLS]**\n\n* **Active:** Activo\n* **Backdrop:** Fondo\n* **Flag:** Bandera\n* **Frame:** Marco\n* **Get:** Obtener\n* **Loop:** Bucle\n* **Object:** Objeto\n* **Set:** Definir\n\n**[EXPRESSIONS]**\n\n* **& (Ampersand):**  Utiliza \"&\" para indicar a los usuarios qué botón deben presionar.",
+    "control.ini": "Please provide me with the content of \"control.ini\" so I can translate it into Spanish (es-es)."
+  },
+  "dialog_2003": {
+    "Cancel": "Cancelar",
+    "OK": "Aceptar",
+    "Play musics": "Reproducir músicas",
+    "Play samples": "Reproducir muestras",
+    "Set-up": "Configuración"
+  }
+}
